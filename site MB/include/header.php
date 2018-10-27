@@ -17,21 +17,11 @@
 	<link rel="stylesheet" href="assets/css/main.css">
 
 	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-	[if lt IE 9]>
 	<script src="assets/js/html5shiv.js"></script>
 	<script src="assets/js/respond.min.js"></script>
 	<!--[endif]-->
 	
 </head>
-<section class="container">
-  <h1>
-    <span class="title">bienvenue</span>
-    <span class="title">sur le site</span>
-    <span class="title">MB</span>
-  </h1>
-  
-  <div class="button">restart</div>
-</section>
 <body id="bodyhome" class="home">
 	<!-- Fixed navbar -->
 	<div class="navbar navbar-inverse navbar-fixed-top headroom" >
