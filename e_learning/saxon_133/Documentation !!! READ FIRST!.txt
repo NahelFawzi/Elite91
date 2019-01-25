@@ -1,0 +1,7 @@
+NEW INSTALLATION:
+
+Open file "Documentation/index.html" from this archive in your browser and follow Documentation steps to install theme.
+
+UPDATE INSTALLED THEME:
+
+Open file "Documentation/release-history.html" from this archive in your browser and read update instructions.

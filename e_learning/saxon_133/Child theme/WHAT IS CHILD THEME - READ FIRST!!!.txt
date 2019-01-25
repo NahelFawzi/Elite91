@@ -1,0 +1,23 @@
+WHAT IS WORDPRESS CHILD THEME?
+
+A child theme is a special kind of WordPress theme that inherits all of the design elements of its parent theme. A child theme with no customization is identical to its parent.
+
+WHEN YOU DON'T NEED TO USE CHILD THEME:
+
+1) Change theme options.
+2) Add/change plugins.
+3) Change/add CSS styles to theme (use Customize > Additional CSS instead).
+4) Change/add JavaScript in theme (use Theme Control Panel > Custom JS instead).
+5) Add new features to theme without code (use Plugins instead).
+
+WHEN YOU NEED TO USE CHILD THEME:
+
+1) You are WordPress developer and want to code your PHP functions to extend theme features or add your own.
+2) You are WordPress developer and want to override theme PHP functions with your own functions to change something.
+3) You want to completely change HTML templates in theme or add your own templates (you need to know PHP/HTML coding for this).
+
+HOW TO INSTALL & USE CHILD THEME:
+
+1) Install parent theme first, activate it, install and activate all theme plugins first.
+2) Install child theme in the same way from ZIP file and activate it.
+3) Refer to WordPress documentation how to work with child theme: https://codex.wordpress.org/Child_Themes
